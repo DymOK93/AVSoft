@@ -1,0 +1,7 @@
+$ cat .gitignore
+#Исключаем служебные папки системы сборки
+out/
+.vs/
+#Исключаем вспомогательные конфигурационные файлы CMake
+CMakeLists.txt.user
+CMakeSettings.json
