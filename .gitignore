@@ -6,3 +6,7 @@ out/
 #Исключаем вспомогательные конфигурационные файлы CMake
 CMakeLists.txt.user
 CMakeSettings.json
+#Исключаем архивы
+.zip
+.rar
+.7z
